@@ -42,7 +42,7 @@
 <tr>
 <td colspan="2" valign="top" align="center">
   <h3>Desk-Remote <sub>(geliştiriliyor)</sub></h3>
-  <p>Windows 10 ve 11 için kendi sunucunuzda çalışan uzak masaüstü. Tailscale ağındaki, sürekli açık duran bilgisayarlara bağlanmak için tasarlandı; ajan her bilgisayarda Windows ile birlikte açılır ve kendini GitHub sürümlerinden günceller.</p>
+  <p>Windows 10 ve 11 için kendi sunucunuzda çalışan uzak masaüstü. Tailscale ağındaki, sürekli açık duran bilgisayarlara bağlanmak için tasarlandı; ajanın her bilgisayarda Windows ile birlikte açılması ve kendini GitHub sürümlerinden güncellemesi planlanıyor.</p>
   <p><a href="https://github.com/RbnApp/desk-remote">Depo</a></p>
 </td>
 </tr>
