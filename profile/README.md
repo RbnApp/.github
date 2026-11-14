@@ -41,9 +41,14 @@
 </tr>
 <tr>
 <td colspan="2" valign="top" align="center">
-  <h3>Desk-Remote <sub>(geliştiriliyor)</sub></h3>
-  <p>Windows 10 ve 11 için kendi sunucunuzda çalışan uzak masaüstü. Tailscale ağındaki, sürekli açık duran bilgisayarlara bağlanmak için tasarlandı; ajanın her bilgisayarda Windows ile birlikte açılması ve kendini GitHub sürümlerinden güncellemesi planlanıyor.</p>
-  <p><a href="https://github.com/RbnApp/desk-remote">Depo</a></p>
+  <a href="https://github.com/RbnApp/desk-remote"><img src="https://raw.githubusercontent.com/RbnApp/desk-remote/main/apps/desk-panel/icons/128x128.png" width="84" alt="Desk-Remote"></a>
+  <h3>Desk-Remote</h3>
+  <p>Kendi bilgisayarlarınızı kendi özel ağınız üzerinden görün ve yönetin: Windows için uzak masaüstü. Her bilgisayarda Windows ile açılan ajan ve bağlandığınız bilgisayardaki panelle ekran, klavye, fare ve dosya gönderme; UAC ve kilit ekranı dahil. Tailscale ağınızdan geçer, bulut hesabı gerekmez, kendini GitHub sürümlerinden günceller.</p>
+  <p>
+    <a href="https://github.com/RbnApp/desk-remote/releases/latest"><img alt="Son sürüm" src="https://img.shields.io/github/v/release/RbnApp/desk-remote?label=son%20s%C3%BCr%C3%BCm&style=flat-square"></a>
+    <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white">
+  </p>
+  <p><a href="https://github.com/RbnApp/desk-remote/releases/latest"><b>İndir</b></a> &middot; <a href="https://github.com/RbnApp/desk-remote">Depo</a></p>
 </td>
 </tr>
 </table>
